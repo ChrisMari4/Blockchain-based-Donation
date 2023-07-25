@@ -1,4 +1,4 @@
-# Blockchain-Based-Donation
+# Blockchain-based Donation
 ## Context
 This project aims to assist a small nonprofit organization operating in the information sector in creating a charity fundraising portal. One of the organization's co-founders is interested in harnessing blockchain technology as it may be the perfect solution for automating their monthly fundraising events.
 

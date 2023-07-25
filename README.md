@@ -19,3 +19,8 @@ To achieve the project objectives, the smart contract will be designed with the 
   
 ## Conclusion
 This smart contract prototype aims to demonstrate the transparency, security, and automation capabilities of blockchain technology in the context of charity fundraising. By providing a better understanding of the underlying mechanics, it can help the organization achieve its philanthropic goals more efficiently.
+
+## Author
+Christian Mariano https://www.linkedin.com/in/christian-mariano-5319a71a3/
+
+
